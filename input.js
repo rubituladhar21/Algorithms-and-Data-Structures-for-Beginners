@@ -1,1 +1,1 @@
-Fix typo in prompt
+Add greeting
